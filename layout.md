@@ -3,3 +3,4 @@ section_Euclidean_Case_Consider_two__.tex
 figures/distrib/distrib.png
 Let_define_the_Gram_matrix__.tex
 figures/gram/gram.png
+To_verify_if_the_Gram__.tex
