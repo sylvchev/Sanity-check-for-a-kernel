@@ -5,3 +5,4 @@ Let_define_the_Gram_matrix__.tex
 figures/gram/gram.png
 To_verify_if_the_Gram__.tex
 section_Riemannian_case_Let_boldsymbol__.tex
+figures/covariance/covariance.png
