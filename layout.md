@@ -1,3 +1,4 @@
 untitled.tex
 section_Euclidean_Case_Consider_two__.tex
 figures/distrib/distrib.png
+Let_define_the_Gram_matrix__.tex
