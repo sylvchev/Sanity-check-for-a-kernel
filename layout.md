@@ -8,4 +8,4 @@ section_Riemannian_case_Let_boldsymbol__.tex
 figures/covariance/covariance.png
 The_Gram_matrix_is_defined__.tex
 figures/gram-riemann/gram-riemann.png
-Again_the_experimental_study_of__.tex
+begin_table_begin_tabular_c__.tex
