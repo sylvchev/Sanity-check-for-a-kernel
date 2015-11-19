@@ -6,3 +6,4 @@ figures/gram/gram.png
 To_verify_if_the_Gram__.tex
 section_Riemannian_case_Let_boldsymbol__.tex
 figures/covariance/covariance.png
+The_Gram_matrix_is_defined__.tex
